@@ -1,0 +1,36 @@
+src/registry/toolsets/access-control.ts
+  human 326,338,346,348-365,381
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 22,
+          "added_lines": 22,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "326,338,346,348-365,381",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/registry/toolsets/access-control.ts"
+    }
+  ],
+  "base_commit_sha": "71abeaa24b304aa3f21d63f428288fbb408ceedd",
+  "commit_sha": "71abeaa24b304aa3f21d63f428288fbb408ceedd",
+  "commit_type": "commit_amend",
+  "git_ai_version": "1.4.2",
+  "prompts": {
+    "human": {
+      "accepted_lines": 22,
+      "agent_id": null,
+      "human_author": null,
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 22,
+      "total_deletions": 0
+    }
+  },
+  "schema_version": "authorship/3.0.0"
+}
