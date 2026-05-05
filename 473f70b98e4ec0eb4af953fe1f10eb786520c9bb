@@ -1,0 +1,39 @@
+src/registry/toolsets/access-control.ts
+  human 326,338,346,348-365,381
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 22,
+          "added_lines": 22,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "326,338,346,348-365,381",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/registry/toolsets/access-control.ts"
+    }
+  ],
+  "base_commit_sha": "47752e5c602d21fc32e193be8f52a000698d2038",
+  "branch": "fix/resource-group-authz-path",
+  "commit_sha": "473f70b98e4ec0eb4af953fe1f10eb786520c9bb",
+  "commit_time": "2026-05-05T22:31:13+05:30",
+  "commit_type": "direct_commit",
+  "git_ai_version": "1.4.2",
+  "prompts": {
+    "human": {
+      "accepted_lines": 22,
+      "agent_id": null,
+      "human_author": "Abhishek Singh <abhishek.singh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 22,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://git0.harness.io/l7B_kbSEQD2wjrM7PShm5w/PROD/Harness_Commons/mcp-server.git",
+  "schema_version": "authorship/3.0.0"
+}
