@@ -1,0 +1,80 @@
+src/registry/toolsets/access-control.ts
+  43d2fd54-8c7c-4c43-823e-6f5a8802fd68 338,381
+  4a4e6c29-fc03-4beb-8c82-fa254880784f 326,346
+  human 348-365
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 4,
+          "hash": "43d2fd54-8c7c-4c43-823e-6f5a8802fd68",
+          "lines": "338,381",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 4,
+          "hash": "4a4e6c29-fc03-4beb-8c82-fa254880784f",
+          "lines": "326,346",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 18,
+          "added_lines": 18,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "348-365",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/registry/toolsets/access-control.ts"
+    }
+  ],
+  "base_commit_sha": "46e2efa3cc64b2bc82f21bab5a682f53e5616de1",
+  "commit_sha": "46e2efa3cc64b2bc82f21bab5a682f53e5616de1",
+  "commit_type": "commit_amend",
+  "git_ai_version": "1.4.2",
+  "prompts": {
+    "43d2fd54-8c7c-4c43-823e-6f5a8802fd68": {
+      "accepted_lines": 2,
+      "agent_id": {
+        "id": "43d2fd54-8c7c-4c43-823e-6f5a8802fd68",
+        "model": "default",
+        "tool": "cursor"
+      },
+      "human_author": "Abhishek Singh <abhishek.singh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 2,
+      "total_deletions": 4
+    },
+    "4a4e6c29-fc03-4beb-8c82-fa254880784f": {
+      "accepted_lines": 2,
+      "agent_id": {
+        "id": "4a4e6c29-fc03-4beb-8c82-fa254880784f",
+        "model": "default",
+        "tool": "cursor"
+      },
+      "human_author": "Abhishek Singh <abhishek.singh@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 2,
+      "total_deletions": 4
+    },
+    "human": {
+      "accepted_lines": 18,
+      "agent_id": null,
+      "human_author": null,
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 18,
+      "total_deletions": 0
+    }
+  },
+  "schema_version": "authorship/3.0.0"
+}
